@@ -2,12 +2,14 @@ import firebase from "firebase";
 require("@firebase/firestore");
 
 var firebaseConfig = {
-  apiKey: "AIzaSyD063WTRRp9hqHDrry0LRq95pNu3zqpG94",
-  authDomain: "bicicleta-eletronica.firebaseapp.com",
-  projectId: "bicicleta-eletronica",
-  storageBucket: "bicicleta-eletronica.appspot.com",
-  messagingSenderId: "777022380523",
-  appId: "1:777022380523:web:85da7254f92ee85c5be1ae"
+
+    apiKey: "AIzaSyCRiW13uGl1auHmvnzdnKQfAfprVZXAq-k",
+    authDomain: "pro71-928b3.firebaseapp.com",
+    projectId: "pro71-928b3",
+    storageBucket: "pro71-928b3.appspot.com",
+    messagingSenderId: "251775107701",
+    appId: "1:251775107701:web:b8ff371b500de0569dae3c"
+
 };
 
 firebase.initializeApp(firebaseConfig);
